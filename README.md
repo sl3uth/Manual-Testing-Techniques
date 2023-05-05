@@ -1,4 +1,4 @@
-📚 Welcome to the manualTesting repository! This repository is a collection of resources, templates, and best practices for manual software testing. 🕵️‍♀️
+📚 Welcome to the Manual Testing repository! This repository is a collection of resources, templates, and best practices for manual software testing. 🕵️‍♀️
 
 🔍 As a software tester, I understand the importance of thorough manual testing to ensure the quality and reliability of software applications. This repository aims to provide a comprehensive set of materials to assist fellow testers in performing effective manual testing.
 
