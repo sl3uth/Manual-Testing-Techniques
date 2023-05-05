@@ -10,10 +10,6 @@
 
 🌟 Don't forget to give the repository a ⭐️ if you find the content helpful. 
 
-# Manual Testing
-
-Manual testing is an essential part of the software development life cycle (SDLC) that involves testing software applications manually, without the use of automated tools. It plays a crucial role in ensuring the quality and reliability of software before it is released to end-users.
-
 ## Manual Testing Process
 
 The manual testing process typically includes the following steps:
